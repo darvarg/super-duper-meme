@@ -1,0 +1,5 @@
+<script language="javascript">
+
+function valida(e)
+alert("Hello world!");
+</script>
